@@ -1,0 +1,5 @@
+pandas
+stremlit
+openpyxl
+seaborn
+matplotlib
