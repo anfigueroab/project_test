@@ -1,5 +1,5 @@
 pandas
-stremlit
+streamlit
 openpyxl
 seaborn
 matplotlib
